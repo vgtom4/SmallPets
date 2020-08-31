@@ -14,7 +14,7 @@ translations:
   playerIsntOnline: "Le joueur n'est pas connecter!"
   userDataNotFound: "Vos données d'utilisateur sont introuvables!"
   commandIsOnlyForPlayers: "Cette commande est réservée aux joueurs"
-  reloaded: 'Rechargé %type%'
+  reloaded: 'Rechargement %type%'
   maxLevel: '&d&kS&d NIVEAU MAX &d&kS'
   experienceMultiplier: "Multiplicateur d'expérience"
   stats: 'Statistiques'
